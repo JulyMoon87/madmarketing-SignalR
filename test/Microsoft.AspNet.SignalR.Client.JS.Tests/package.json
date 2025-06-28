@@ -28,6 +28,6 @@
     "karma-summary-reporter": "^1.5.1",
     "qunit": "^2.6.2",
     "ts-node": "^7.0.1",
-    "typescript": "^3.0.3"
+    "typescript": "^3.9.10"
   }
 }
